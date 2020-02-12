@@ -1,8 +1,8 @@
 # Roman Tymchenko
 
 #### Contacts:
-- *Phone:* +380979872198; 
-- *Email:* romatimchenko1984@gmail.com
+- *Phone: +380979872198;* 
+- *Email: romatimchenko1984@gmail.com*
 
 #### Summary
 Start a career as Junior Front-End Developer. Fond of learning frontend. Want to develop creatively and put it into practice.  Polite, have a high threshold emotional, stubborn in achieving the final result, positive, ready to perform the hard work, ready to work at the team, study new materials.
@@ -11,6 +11,7 @@ Start a career as Junior Front-End Developer. Fond of learning frontend. Want to
  - HTML5, CSS3;
  - JavaScript;
  - Git/Github.
+ - SASS,SCSS
  - Visual Studio Code,
  - Adobe Photoshop
 
@@ -33,6 +34,7 @@ string = string.toLocaleLowerCase();
   -  2006-2007 – lecturer at Nizhyn State Gogol University.
 
 #### Education
+  - 2019-2020 RSSchool courses
   -  2001-2007 – Nizhyn State Gogol University, the Faculty history and law.
   -  2011 – PHD in history
   
@@ -41,7 +43,8 @@ string = string.toLocaleLowerCase();
   - HTML and CSS courses  Codecademy.com
   - Online learning of JavaScript at [learn.js.ru](https://learn.javascript.ru/)
   - Video courses at [js.itgid.info](https://js.itgid.info/)
+  - HTML, CSS, Javascript RSSchool Courses
 
 
 #### English level
-Elementary. I wrote some small articles in English and read books
+A2+
