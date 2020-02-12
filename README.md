@@ -1,1 +1,1 @@
-[https://timon4ik2102.github.io/rsschool-cv-2019/cv](https://timon4ik2102.github.io/rsschool-cv-2019/cv)
+[https://timon4ik2102.github.io/rsschool-cv/cv](https://timon4ik2102.github.io/rsschool-cv/cv)
